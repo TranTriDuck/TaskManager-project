@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TaskManager
+comment1.params=
+comment1.target=TaskManager()
+comment2.params=name
+comment2.target=void\ addTaskList(java.lang.String)
+comment3.params=index
+comment3.target=TaskList\ getTaskList(int)
+comment4.params=index1\ index2
+comment4.target=void\ compareTaskLists(int,\ int)
+comment5.params=
+comment5.target=void\ listTaskLists()
+comment6.params=
+comment6.target=void\ evaluateAllTasks()
+numComments=7

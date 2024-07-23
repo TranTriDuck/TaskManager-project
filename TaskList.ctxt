@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TaskList
+comment1.params=name
+comment1.target=TaskList(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.util.ArrayList\ getTasks()
+comment4.params=description\ dueDate
+comment4.target=void\ addTask(java.lang.String,\ java.time.LocalDate)
+comment5.params=index
+comment5.target=void\ markTaskCompleted(int)
+comment6.params=index
+comment6.target=void\ markTaskIncomplete(int)
+comment7.params=
+comment7.target=void\ listTasks()
+numComments=8
