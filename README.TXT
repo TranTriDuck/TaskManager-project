@@ -5,7 +5,7 @@ all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 PROJECT TITLE: Task Manager
-PURPOSE OF PROJECT: Help people to manage their tasks and make a program and plannning with Gantt Chart
+PURPOSE OF PROJECT: Help people to manage their tasks and make a program and planning with Gantt Chart
 VERSION or DATE: 3T 1.1
 HOW TO START THIS PROJECT: Learn and practise Java 
 AUTHORS: Duc Tran Tri
